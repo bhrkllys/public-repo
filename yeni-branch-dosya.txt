@@ -1,1 +1,2 @@
 Bu dosya yeni bir branch için.
+Yeni branch'te çakışma yaratacak bir satır.
