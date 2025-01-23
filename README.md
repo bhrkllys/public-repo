@@ -1,1 +1,1 @@
-# Public Repo
+Bu benim ilk dosyamdır.
