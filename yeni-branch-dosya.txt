@@ -1,2 +1,6 @@
 Bu dosya yeni bir branch için.
+<<<<<<< HEAD
 Main branch'te yeni bir satır.
+=======
+Yeni branch'te çakışma yaratacak bir satır.
+>>>>>>> yeni-branch
